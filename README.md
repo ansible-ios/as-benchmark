@@ -1,3 +1,12 @@
+# as-benchmark
+
+Ansible Messenger — измерение производительности C++.
+
+> [!NOTE]
+> **Происхождение кода.** Форк [google/benchmark](https://github.com/google/benchmark), который сопровождает проект Ansible Messenger. Сведения об авторах и лицензиях приведены в исходной документации.
+
+## Документация исходного проекта
+
 # Benchmark
 
 [![build-and-test](https://github.com/google/benchmark/workflows/build-and-test/badge.svg)](https://github.com/google/benchmark/actions?query=workflow%3Abuild-and-test)
